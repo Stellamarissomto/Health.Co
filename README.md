@@ -1,3 +1,3 @@
-# Health.Co
-# A healthcare landing page
-# url: https://healthco.netlify.app/
+ Health.Co
+ A healthcare landing page
+ url: https://healthco.netlify.app/
